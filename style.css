@@ -13,3 +13,23 @@ background-color:grey!important;
     font-size:25px;
     padding: 10px;
 }
+
+footer{
+
+    color:black;
+    background-color: rgb(255, 149, 149);
+    position: fixed;
+    width:100%;
+    bottom: 0 ;
+    text-align: center;
+    font-size:20px;
+    }
+    
+    canvas{
+        box-shadow: 2px 2px 40px rgb(28, 0, 240);
+        border:5px dashed black;
+        border-radius: 20px;
+        margin-top: 200;
+        
+    }
+    
